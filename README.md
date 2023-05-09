@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Rondio</h1>
-<h3 align="center">A passionate Javascript web developer in the making, il live in France</h3>
+<h3 align="center">A passionate Javascript web developer in the making, I live in France</h3>
 
 <h3 align="center">In training at O'clock to prepare the Professional Title Web and Mobile Web Developer - Level V</h3>
 
@@ -17,7 +17,7 @@
 - 📄 Know about my experiences [https://drondiodev.github.io/](https://drondiodev.github.io/)
 </br>
 </br>
-### Where to find me ?
+<h3>Where to find me</h3>
 👉 Join my network :
 
 <div id="badges" align="center">
