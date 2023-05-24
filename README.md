@@ -50,7 +50,7 @@
 |                  | Security encrypt datas Bcrypt     |
 |                  | EJS views                         |
 | **FRONT-END**    | ---                               |
-|                  | <img src="https://img.shields.io/badge/css3-%231572b6.svg?logo=css3&logoColor=white&style=for-the-badge">                    |
+|                  | HTML/CSS.                         |
 |                  | JAVASCRIPT                        |
 |                  | SASS                              |
 |                  | ReactJS                           |
