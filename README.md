@@ -20,6 +20,9 @@
 <h3>Where to find me</h3>
 👉 Join my network :
 
+[![E-mail](https://img.shields.io/website?label=drondiodev@icloud.com&style=for-the-badge&url=drondiodev@icloud.com)]
+[![Twitter Follow](https://img.shields.io/twitter/follow/_jgoebel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fproductioncoder&screen_name=_jgoebel)
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/david-rondio/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
