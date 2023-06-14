@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/david-rondio/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://github.com/drondiodev/drondiodev.github.io">
+   <a href="https://drondiodev-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio badge"/>
   </a>
 </div>
