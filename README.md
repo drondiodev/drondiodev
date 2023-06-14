@@ -21,10 +21,10 @@
 👉 Join my network :
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/david-rondio/">
+  <a href="https://www.linkedin.com/in/david-rondio/" target="_blank" rel='noreferrer'>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://drondiodev-portfolio.netlify.app/">
+   <a href="https://drondiodev-portfolio.netlify.app/" target="_blank" rel='noreferrer'>
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio badge"/>
   </a>
 </div>
