@@ -8,7 +8,9 @@
 
 - 🔭 I’m currently working on second iteration of my portfolio in react.
 - First iteration :
-<a href="https://drondiodev-portfolio.netlify.app/" target="_blank" rel='noreferrer'>
+ <a href="https://drondiodev-portfolio.netlify.app/" target="_blank" rel='noreferrer'>
+    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio badge"/>
+</a>
 
 - 🌱 I’m currently learning **React**
 
