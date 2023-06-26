@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drondiodev&label=Profile%20views&color=0e75b6&style=flat" alt="drondiodev" /> </p>
 
 - 🔭 I’m currently working on second iteration of my portfolio in react.
-- First iteration :
- <a href="https://drondiodev-portfolio.netlify.app/" target="_blank" rel='noreferrer'>
+- First iteration made with Astro :
+ <a align="center" href="https://drondiodev-portfolio.netlify.app/" target="_blank" rel='noreferrer'>
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio badge"/>
 </a>
 
