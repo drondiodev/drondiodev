@@ -6,7 +6,9 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drondiodev&label=Profile%20views&color=0e75b6&style=flat" alt="drondiodev" /> </p>
 
-- 🔭 I’m currently working on **my Portfolio**
+- 🔭 I’m currently working on second iteration of my portfolio in react.
+- First iteration :
+<a href="https://drondiodev-portfolio.netlify.app/" target="_blank" rel='noreferrer'>
 
 - 🌱 I’m currently learning **React**
 
