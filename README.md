@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **drondiodev@icloud.com**
 
-- 📄 Know about my experiences [https://cv-drondiodev.netlify.app/](https://cv-drondiodev.netlify.app/)
+- 📄 Know about my experiences [https://cv-drondiodev.netlify.app/](https://cv-drondiodev.netlify.app/ )
 </br>
 </br>
 <h3>Where to find me</h3>
