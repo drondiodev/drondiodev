@@ -6,10 +6,10 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drondiodev&label=Profile%20views&color=0e75b6&style=flat" alt="drondiodev" /> </p>
 
-- 🔭 I’m currently working on second iteration of my portfolio in react.
+- 🔭 I’m currently working on a Full Stack Next.JS 13 application | Event QrCode Platform
+With NEXT.JS 13 - NEXTAUTH.JS - TAILWINDCSS and PRISMA
 
-
-- 👨‍💻 All of my projects are available at [https://github.com/drondiodev](https://github.com/drondiodev)
+- 👨‍💻 All of my projects are available here.
 
 - 📫 How to reach me **drondiodev@icloud.com**
 
