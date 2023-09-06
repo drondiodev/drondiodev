@@ -13,6 +13,8 @@ With NEXT.JS 13 - NEXTAUTH.JS - TAILWINDCSS and PRISMA
 
 - 📫 How to reach me **drondiodev@icloud.com**
 
+- 📄 My PDF resume [https://drive.google.com/file/d/1Fr7fwtAYYKdp3VbfSvuXTOWiVbCfspdG/view?usp=drive_link](Resume)
+
 - 📄 Know about my experiences [https://cv-drondiodev.netlify.app/](https://cv-drondiodev.netlify.app/ )
 </br>
 </br>
