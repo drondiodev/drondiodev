@@ -13,9 +13,9 @@ With NEXT.JS 13 - NEXTAUTH.JS - TAILWINDCSS and PRISMA
 
 - 📫 How to reach me **drondiodev@icloud.com**
 
-- 📄 My PDF resume [https://drive.google.com/file/d/1Fr7fwtAYYKdp3VbfSvuXTOWiVbCfspdG/view?usp=drive_link](Resume)
+- 📄 My PDF resume [Download me !](https://drive.google.com/file/d/1Fr7fwtAYYKdp3VbfSvuXTOWiVbCfspdG/view?usp=drive_link)
 
-- 📄 Know about my experiences [https://cv-drondiodev.netlify.app/](https://cv-drondiodev.netlify.app/ )
+- 📄 Know about my experiences [https://cv-drondiodev.netlify.app/](My Online resume)
 </br>
 </br>
 <h3>Where to find me</h3>
