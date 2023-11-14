@@ -1,4 +1,4 @@
-![linkedin5](test)
+![Cover](https://github.com/drondiodev/drondiodev/blob/main/assets/banniere.png)
 
 
 
@@ -51,7 +51,6 @@ With NEXT.JS 13 - NEXTAUTH.JS - TAILWINDCSS and PRISMA
 |                  | Cookies & Session                 |
 |                  | Authorization Json Web Token      |
 |                  | Active Record (models)            |
-|                  | ORM - Sequelize                   |
 |                  | Security encrypt datas Bcrypt     |
 |                  | EJS views                         |
 | **FRONT-END**    | ---                               |
