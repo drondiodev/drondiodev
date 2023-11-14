@@ -5,13 +5,13 @@
 <h1 align="center">Hi 👋, I'm David Rondio</h1>
 <h3 align="center">A passionate web developer in the making, I live in France</h3>
 
-<h3 align="center">I finished a Front-End developer training at @[O'Clock]</h3>
+<h3 align="center">I finished a Front-End developer training at O'Clock</h3>
 
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drondiodev&label=Profile%20views&color=0e75b6&style=flat" alt="drondiodev" /> </p>
 
-- 🔭 I’m currently working on a Full Stack Next.JS 13 application | Event QrCode Platform
-With NEXT.JS 13 - NEXTAUTH.JS - TAILWINDCSS and PRISMA
+- 🔭 I’m currently working on a Full Stack Next.JS 13 application | E-commerce Platform
+With NEXT.JS 13 - TS - TAILWINDCSS - SUPABASE and PRISMA.
 
 - 👨‍💻 All of my projects are available here.
 
@@ -42,6 +42,10 @@ With NEXT.JS 13 - NEXTAUTH.JS - TAILWINDCSS and PRISMA
 </br>
 
 <div align="center">
+
+<h3>Things I code with</h3>
+
+
 
 |                  | HARD SKILLS                       |
 | ---------------- | --------------------------------- |
