@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm David Rondio</h1>
-<h3 align="center">A passionate Javascript web developer in the making, I live in France</h3>
+![linkedin5](test)
 
-<h3 align="center">In training at O'clock to prepare the Professional Title Web and Mobile Web Developer - Level V</h3>
+
+
+<h1 align="center">Hi 👋, I'm David Rondio</h1>
+<h3 align="center">A passionate web developer in the making, I live in France</h3>
+
+<h3 align="center">I finished a Front-End developer training at @[O'Clock]</h3>
 
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drondiodev&label=Profile%20views&color=0e75b6&style=flat" alt="drondiodev" /> </p>
