@@ -17,7 +17,7 @@ With NEXT.JS 13 - TS - TAILWINDCSS - SUPABASE and PRISMA.
 
 - 📫 How to reach me **drondiodev@icloud.com**
 
-- 📄 My PDF resume [Download me !](https://drive.google.com/file/d/1Fr7fwtAYYKdp3VbfSvuXTOWiVbCfspdG/view?usp=drive_link)
+- 📄 My PDF resume [Download me !](https://github.com/drondiodev/drondiodev/tree/main/assets/CV.pdf)
 
 - 📄 Know about my experiences [My Online resume](https://cv-drondiodev.netlify.app/)
 </br>
