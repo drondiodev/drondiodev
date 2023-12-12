@@ -1,7 +1,7 @@
 ![Cover](https://github.com/drondiodev/drondiodev/blob/main/assets/banniere.png)
 
 
-<h1 align="center">Learn. Build. Deploy.</h1>
+<h1 align="center"><span style="color: blue">Learn. </span><span style="color: yellow">Build. </span><span style="color: red">Deploy.</span></h1>
 </br>
 <h2 align="center">Hi 👋, I'm David Rondio</h2>
 <h3 align="center">A passionate web developer in the making, I live in France</h3>
