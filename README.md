@@ -1,9 +1,11 @@
 ![Cover](https://github.com/drondiodev/drondiodev/blob/main/assets/banniere.png)
 
 
-<h1 align="center"><span style="color: blue">Learn.</span><span style="color: yellow">Build.</span><span style="color: red">Deploy.</span></h1>
+<p align="center">
+<a target="_top" href="https://flamingtext.com/" ><img src="https://blog.flamingtext.com/blog/2023/12/12/flamingtext_com_1702372874_177566514.png" border="0" alt="Logo" title="Logo"></a>
+</p>
 </br>
-<h2 align="center">Hi 👋, I'm David Rondio</h2>
+<h1 align="center">Hi 👋, I'm David Rondio</h1>
 <h3 align="center">A passionate web developer in the making, I live in France</h3>
 
 <h3 align="center">I finished a Front-End developer training at O'Clock</h3>
