@@ -23,6 +23,7 @@
 </p>
 
 <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=drondiodev&label=Profile%20views&color=0e75b6&style=flat" alt="drondiodev" />
       <a href="https://github.com/drondiodev?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/drondiodev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/drondiodev?tab=repositories&sort=stargazers">
