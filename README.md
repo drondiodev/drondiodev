@@ -24,8 +24,6 @@
 
 <p align="center">
       <a href="https://github.com/drondiodev?tab=followers">
-         <img alt="profile views" title="Profile views on Github" src="https://custom-icon-badges.demolab.com/badge/Github%20views-red?style=for-the-badge&label=Profile%20views&logoColor=white"/></a> 
-      <a href="https://github.com/drondiodev?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/drondiodev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/drondiodev?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/drondiodev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
