@@ -8,7 +8,7 @@
 
 </br>
 <h1 align="center">Hi 👋, I'm David Rondio</h1>
-<h3 align="center">A passionate french web developer in the making.</h3>
+**`A passionate french web developer in the making.`**
 
 <h3 align="center">I finished a Front-End developer training at O'Clock</h3>
 
@@ -22,7 +22,7 @@
 - If you like my projects, give them ⭐ and share it with friends !
 </p>
 
-<p align="left">
+<p align="center">
       <a href="https://github.com/drondiodev?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/drondiodev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/drondiodev?tab=repositories&sort=stargazers">
