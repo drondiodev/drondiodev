@@ -8,7 +8,7 @@
 
 </br>
 <h1 align="center">Hi 👋, I'm David Rondio</h1>
-**`A passionate french web developer in the making.`**
+<p align="center">**`A passionate french web developer in the making.`**</p>
 
 <h3 align="center">I finished a Front-End developer training at O'Clock</h3>
 
