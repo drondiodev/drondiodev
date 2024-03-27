@@ -15,12 +15,18 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drondiodev&label=Profile%20views&color=0e75b6&style=flat" alt="drondiodev" /> </p>
 
-- 🔭 I’m currently working on a Full Stack Next.JS 13 application | E-commerce Platform
-With NEXT.JS 13 - TS - TAILWINDCSS - SUPABASE and PRISMA.
+- 🔭 I’m currently working on a Full Stack Next.JS 14 application | TS - TAILWINDCSS - SUPABASE and PRISMA.
 
 - 👨‍💻 All of my projects are available here.
 
 - If you like my projects, give them ⭐ and share it with friends !
+</p>
+
+<p align="left">
+      <a href="https://github.com/drondiodev?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/drondiodev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/drondiodev?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/drondiodev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
 - 📫 How to reach me **drondiodev@icloud.com**
