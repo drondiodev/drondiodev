@@ -52,46 +52,16 @@
 <div align="center">
 <h3>Things I code with</h3>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
-  </a>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,postgres,nodejs,react,nextjs,ts&theme=light" />
   </a>
 </p>
-
-
-
-
-|                  | HARD SKILLS                       |
-| ---------------- | --------------------------------- |
-| **BACK-END**     |
-|                  | NodeJS                            |
-|                  | Express Framework                 |
-|                  | Cookies & Session                 |
-|                  | Authorization Json Web Token      |
-|                  | Active Record (models)            |
-|                  | Security encrypt datas Bcrypt     |
-|                  | EJS views                         |
-| **FRONT-END**    | ---                               |
-|                  | HTML/CSS.                         |
-|                  | JAVASCRIPT                        |
-|                  | SASS                              |
-|                  | ReactJS                           |
-| **VERSIONING**   | ---                               |
-|                  | Git / GitHub                      |
-| **DATABASE**     | ---                               |
-|                  | PostgreSQL                        |
-| **ARCHITECTURE** | ---                               |
-|                  | Models Views Controllers (MVC)    |
-|                  | API RESTful                       |
-| **PROGRAMMING**  | ---                               |
-|                  | OOP (Object Oriented Programming) |
-| **METHOD**       | ---                               |
-|                  | Agile (Scrum)                     |
-|                  | Merise method (CDM, GPM, PDM)     |
-
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,pnpm,git&theme=light" />
+  </a>
+</p>
 </div>
 </br>
 </br>
