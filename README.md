@@ -52,6 +52,8 @@
 <div align="center">
 <h3>Things I code with</h3>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs&theme=light)](https://skillicons.dev)
+
 
 
 |                  | HARD SKILLS                       |
