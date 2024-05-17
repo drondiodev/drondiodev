@@ -15,7 +15,7 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drondiodev&label=Profile%20views&color=0e75b6&style=flat" alt="drondiodev" /> </p>
 
-- 🔭 I’m currently working on a Full Stack Next.JS 14 application | TS - TAILWINDCSS - SUPABASE and PRISMA.
+- 🔭 I’m currently working on a Full Stack Next.JS 14 SaaS with a Newsletter program | NEXTJS-14 - TS - TAILWINDCSS - CLERK - SUPABASE and PRISMA.
 
 - 👨‍💻 All of my projects are available here.
 
