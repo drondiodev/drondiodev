@@ -10,8 +10,6 @@
 <h1 align="center">Hi 👋, I'm David Rondio</h1>
 <p align="center">**`A passionate french Business & Web developer.`**</p>
 
-<h3 align="center">I finished a Front-End developer training at O'Clock</h3>
-
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drondiodev&label=Profile%20views&color=0e75b6&style=flat" alt="drondiodev" /> </p>
 
