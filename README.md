@@ -1,4 +1,4 @@
-![Cover](https://github.com/drondiodev/drondiodev/blob/main/assets/banniere.png)
+![Cover](https://github.com/drondiodev/drondiodev/blob/main/assets/1724920362626.jpeg)
 
 
 <div align="center">
