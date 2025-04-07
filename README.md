@@ -29,7 +29,6 @@
 
 - 📫 How to reach me **drondiodev@icloud.com**
 
-- 📄 My PDF resume [Download me !](https://github.com/drondiodev/drondiodev/tree/main/assets/CV.pdf)
 </br>
 </br>
 <h3>Where to find me</h3>
