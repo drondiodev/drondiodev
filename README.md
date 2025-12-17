@@ -17,7 +17,7 @@
 
 Après **20 ans dans le développement commercial B2B** (IT, automobile, solutions numériques), j'ai décidé de passer de l'autre côté : **construire les outils** plutôt que simplement les vendre.
 
-Je suis ce qu'on appelle un **"Vibe Coder"** – j'utilise les outils d'IA (GitHub Copilot, Claude) pour transformer mes idées en produits fonctionnels. Pas de prétention à être un dev senior, mais une vraie capacité à **livrer des solutions qui marchent**.
+Je suis ce qu'on appelle un **"Vibe Coder"** – j'utilise les outils d'IA (GitHub Copilot) pour transformer mes idées en produits fonctionnels. Pas de prétention à être un dev senior, mais une vraie capacité à **livrer des solutions qui marchent**.
 
 ## 🚀 Projet phare : ProTouch AI
 
@@ -74,7 +74,6 @@ Je suis ce qu'on appelle un **"Vibe Coder"** – j'utilise les outils d'IA (GitH
     <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=light" />
   </a>
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot"/>
-  <img src="https://img.shields.io/badge/Claude%20AI-7C3AED?style=for-the-badge" alt="Claude AI"/>
 </p>
 
 </div>
